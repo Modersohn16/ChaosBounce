@@ -1,7 +1,7 @@
 # ChaosBounce
 
 ## Credits
-Jonathan Creütz - Lead developer / Producer
+Jonathan Creütz - Lead developer / Producer <br>
 Ilya Voitsekh - Co-Developer / Testing
 Ines Rakoczy - Co-Developer / Testing
 Daniel Winroth - Junior Developer / Testing
